@@ -1,4 +1,4 @@
 # gitskills
 hello 2023
 This is jiang.
-ababababababab
+Creating a new branch is quick. 
